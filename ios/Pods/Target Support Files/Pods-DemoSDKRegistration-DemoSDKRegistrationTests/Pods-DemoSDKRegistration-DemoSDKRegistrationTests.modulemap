@@ -1,0 +1,6 @@
+module Pods_DemoSDKRegistration_DemoSDKRegistrationTests {
+  umbrella header "Pods-DemoSDKRegistration-DemoSDKRegistrationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
