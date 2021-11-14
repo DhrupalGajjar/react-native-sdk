@@ -1,6 +1,0 @@
-module Pods_DemoSDKRegistration {
-  umbrella header "Pods-DemoSDKRegistration-umbrella.h"
-
-  export *
-  module * { export * }
-}
